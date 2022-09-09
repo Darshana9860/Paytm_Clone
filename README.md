@@ -3,7 +3,7 @@ Technologies used : HTML , Tailwind-CSS
 
 Time taken to complete Project : 15 Hours
 
-Deployed link: [Paytm_Clone](http://127.0.0.1:5500/index.html)
+Deployed link: [Paytm_Clone](https://monumental-shortbread-dc0e58.netlify.app/)
 
 Screenshots:
 ![Screenshot (188)](https://user-images.githubusercontent.com/82273693/189100512-a80fc1bc-ffe6-454b-83ba-a181477e1c24.png)
