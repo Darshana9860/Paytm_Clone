@@ -1,7 +1,7 @@
 # Paytm_Clone
 Technologies used : HTML , Tailwind-CSS
 
-Time taken to complete Project : 15 Hours
+Time taken to complete Project : 20 Hours
 
 Deployed link: [Paytm_Clone](https://monumental-shortbread-dc0e58.netlify.app/)
 
